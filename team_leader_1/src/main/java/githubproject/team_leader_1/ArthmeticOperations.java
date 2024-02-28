@@ -10,5 +10,8 @@ public class ArthmeticOperations {
 	public static float subtraction(float one,float two) {
 		return one-two;
 	}
+	public static float division(float one,float two) {
+		return one/two;
+	}
 
 }
