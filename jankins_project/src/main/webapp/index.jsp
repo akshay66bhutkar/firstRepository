@@ -1,1 +1,1 @@
-<h1>Welcome to jenkins --  Date and time :: <%=new java.util.Date() %></h1>
+<h1>Welcome to jenkins --  Date and time This is updated1 :: <%=new java.util.Date() %></h1>
